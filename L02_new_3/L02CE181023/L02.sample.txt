@@ -1,0 +1,17 @@
+3
+TF 5
+There exist birds that can not fly. (true/false)
+true
+MC 10
+Who was the president of the USA in 1991?
+6
+Richard Nixon
+Gerald Ford
+Jimmy Carter
+Ronald Reagan
+George Bush Sr.
+Bill Clinton
+E
+SA 20
+What city hosted the 2004 Summer Olympics?
+Athens

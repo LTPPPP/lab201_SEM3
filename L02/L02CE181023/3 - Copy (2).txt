@@ -1,0 +1,18 @@
+2
+MC 10
+Who was the president of the USA in 1991?
+10
+Richard Nixon
+Gerald Ford
+Jimmy Carter
+Ronald Reagan
+George Bush Sr.
+Bill Clinton
+ok
+ok
+ok
+ok
+E
+SA 20
+What city hosted the 2004 Summer Olympics?
+Athens

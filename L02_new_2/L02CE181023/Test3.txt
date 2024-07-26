@@ -1,0 +1,15 @@
+3
+MC 10
+1+1= ?
+4
+2
+3
+4
+5
+A
+TF 5
+The sky is blue?
+True
+SA 20
+The capital of VietNam?
+Ha Noi

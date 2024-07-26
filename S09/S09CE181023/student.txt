@@ -1,0 +1,10 @@
+Student list:---------------------------
+Student code: sv1
+Student name: ok
+Date of birth: 08-nov-2004
+Learning point: 10.0
+---------------------------
+Student code: sv2
+Student name: ok
+Date of birth: 22-feb-2000
+Learning point: 5.0
